@@ -1,35 +1,28 @@
-# Absensi-Apps
-Membuat Aplikasi Absensi dengan Android Studio
+# Description for SIAPSEN
+Ketepatan waktu menjadi sederhana. Kehadiran anda kendali Anda. Perkenalkan aplikasi absensi SIAPSEN.
+SIAPSEN adalah aplikasi yang memungkinkan pengguna untuk melakukan absensi atau pencatatan kehadiran di dalam dunia kerja dengan cara memanfaatkan kamera ponsel atau smartphone, Selain menggunakan sensor kamera aplikasi SIAPSEN juga menggunakan GPS handphone untuk mengambil titik koordinat pada saat pengguna melakukan absen. Aplikasi ini dirancang untuk memudahkan proses pencatatan kehadiran. Pengguna dapat menggunakan kamera ponsel mereka untuk memverifikasi kehadiran mereka dengan cara yang efisien dan akurat. 
 
-# Tutorial Build with Android Studio
-https://youtu.be/naA_RTzY9qA
+# Fungsi
+•	Absen Masuk dan Keluar: Fungsi ini memungkinkan pengguna untuk mencatat waktu kehadiran mereka saat memulai dan mengakhiri hari kerja. Biasanya, ini dapat dilakukan dengan satu sentuhan tombol atau proses yang cepat untuk meningkatkan efisiensi.
 
-# Tutorial Build with Step by Step
-https://rivaldi48.blogspot.com/2022/06/tutorial-membuat-aplikasi-absensi-dengan-android-studio.html
+•	Perizinan dan Pengajuan Cuti: Fitur ini memungkinkan karyawan untuk mengajukan izin atau cuti langsung melalui aplikasi. Pengguna dapat mengisi formulir perizinan dan melampirkan dokumen yang diperlukan.
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzGHFePffN9pWKDHqoMNKNOOCrWN3Gj7DNpCwEqYsnu_aNwI9HpZDeDKXw9cRW6bhn0kiW0q4cYoiUjk47urcS5JUSZ9fjU4ekLdGNI7Z91cNv6JV33499W_DD9pO_E9CrGlBDzhSsjYUh2nl2yMpj4bBtufabrSEoGLNWHVnh8r9LHrViHToYzbRIZg/s1280/Tutorial%20Membuat%20Aplikasi%20Absensi%20dengan%20Android%20Studio.png" data-canonical-src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzGHFePffN9pWKDHqoMNKNOOCrWN3Gj7DNpCwEqYsnu_aNwI9HpZDeDKXw9cRW6bhn0kiW0q4cYoiUjk47urcS5JUSZ9fjU4ekLdGNI7Z91cNv6JV33499W_DD9pO_E9CrGlBDzhSsjYUh2nl2yMpj4bBtufabrSEoGLNWHVnh8r9LHrViHToYzbRIZg/s1280/Tutorial%20Membuat%20Aplikasi%20Absensi%20dengan%20Android%20Studio.png" style="max-width:100%;">
+•	Riwayat Absen: Menyediakan akses ke riwayat kehadiran pengguna. Ini dapat mencakup catatan absensi masuk, absensi keluar, serta perizinan atau cuti yang telah diajukan dan disetujui atau ditolak.
 
-****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
+•	Lokasi Otomatis: Fungsi ini memanfaatkan teknologi lokasi pada perangkat seluler untuk mengidentifikasi lokasi absensi. Hal ini dapat membantu memastikan bahwa absensi dicatat dari lokasi yang diizinkan atau sesuai dengan kebijakan perusahaan.
 
-## 👇 Click For Support Me :
-<a href="https://sociabuzz.com/azharrvldi_/donate"> 
-<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200"></a>
+•	Kamera: Integrasi kamera memungkinkan pengguna untuk melampirkan bukti foto atau mengambil gambar untuk mendukung catatan absensi atau permohonan cuti. Ini dapat menambah tingkat keamanan dan validitas informasi.
 
-## 📄 License
+# Contributors
+1.	Sefni Marcella Pratiwi (22050974051)
+2.	Ernika Frevita Ayu Septiani (22050974058)
+3.	Yudha Bima Herlambang (22050974065)
+4.	Nur Kholis Wakhid (22050974075)
 
-```
-Copyright (C) Azhar Rivaldi
+# Links
+•	https://pendidikan-ti.ft.unesa.ac.id/ 
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+# Poster
+![image](https://github.com/yudhabima/SIAPSEN/assets/144974391/6748bd5d-74cb-44ab-a4e2-046d24d86b27)
 
-    http://www.apache.org/licenses/LICENSE-2.0
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-```
